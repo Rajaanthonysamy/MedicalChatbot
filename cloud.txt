@@ -1,0 +1,1 @@
+190045319419.dkr.ecr.us-east-1.amazonaws.com/medical-chatbot
